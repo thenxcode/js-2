@@ -16,7 +16,7 @@ The index of the last character is string length - 1 .
 -   JavaScript String method `concat()`
     >The concat() method joins two or more strings.
 The concat() method does not change the existing strings.
-The concat() method returns a new string.
+The concat() method returns a new string..
 -   JavaScript String method `replace()`
     >The replace() method searches a string for a value or a regular expression.
 The replace() method returns a new string with the value(s) replaced.
